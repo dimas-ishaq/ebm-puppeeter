@@ -37,7 +37,7 @@ Gunakan dpkg untuk instalasi:
 
 Jika muncul error karena dependensi, langsung perbaiki dan lanjutkan instalasi otomatis dengan:
 
-    apt install -f
+    apt-get install -f
 
 
 ---
