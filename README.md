@@ -96,6 +96,16 @@ Jika berhasil, akan muncul output seperti:
 > git version 2.xx.x
 
 ---
+
+### 9. Install Dependencies dengan NPM
+
+Setelah berhasil meng-clone repository dan masuk ke direktori proyek, jalankan perintah berikut untuk menginstal semua dependencies (termasuk Puppeteer dan modul lainnya):
+
+    npm install
+
+Tunggu proses selesai hingga semua package berhasil terpasang. Jika tidak ada error, berarti project siap dijalankan.
+
+---
 ### 10. Isi File `cookie.txt` dan `user-agent.txt`
 
 Setelah clone repo dan masuk ke dalam folder `ebm-puppeeter`, kamu akan menemukan dua file berikut:
