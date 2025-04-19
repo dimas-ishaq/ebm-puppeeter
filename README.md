@@ -134,3 +134,10 @@ Simpan dan keluar seperti langkah sebelumnya.
 Setelah `npm install` selesai dan file `cookie.txt` serta `user-agent.txt` sudah diisi, kamu bisa langsung menjalankan bot menggunakan perintah:
 
     node main.js
+
+
+Dokumentasi ini disediakan untuk keperluan edukasi dan eksperimen pribadi.  
+
+**Segala risiko penggunaan, pelanggaran kebijakan, atau kerugian akibat langkah-langkah dalam panduan ini sepenuhnya menjadi tanggung jawab pengguna.**  
+
+Pastikan Anda memahami apa yang Anda lakukan dan tidak melanggar hukum atau ketentuan layanan pihak ketiga.
